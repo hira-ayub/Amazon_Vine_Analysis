@@ -27,3 +27,11 @@ CREATE TABLE vine_table (
   vine TEXT,
   verified_purchase TEXT
 );
+
+select * from review_id_table
+
+select * from products_table
+
+select * from customers_table
+
+select * from vine_table
